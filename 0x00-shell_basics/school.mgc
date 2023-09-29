@@ -1,2 +1,25 @@
-0 string SCHOOL School data file
-! :mime School
+# Magic file for School data files
+0     string   0-current_working_directory    text/plain
+0     string   100-lets_move                text/plain
+0     string   101-clean_emacs              text/plain
+0     string   102-tree                     text/plain
+0     string   103-commas                   text/plain
+0     string   10-back                     text/plain
+0     string   11-lists                    text/plain
+0     string   12-file_type                text/plain
+0     string   13-symbolic_link            text/plain
+0     string   14-copy_html                text/plain
+0     string   1-listit                    text/plain
+0     string   2-bring_me_home             text/plain
+0     string   3-listfiles                 text/plain
+0     string   4-listmorefiles             text/plain
+0     string   5-listfilesdigitonly        text/plain
+0     string   6-firstdirectory            text/plain
+0     string   7-movethatfile              text/plain
+0     string   8-firstdelete               text/plain:
+0     string   9-firstdirdeletion          text/plain
+0     string   fake_school0                text/plain
+0     string   fake_school1                text/plain
+0     string   file_school0                School
+0     string   file_school1                School
+0     string   file_test0                  inode/x-empty
